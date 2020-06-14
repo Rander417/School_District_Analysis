@@ -16,7 +16,7 @@ Compares results before and after updating the Thomas High School 9th grade data
 
 
 
-######Recreate the district and school summary DataFrames.\
+###### Recreate the district and school summary DataFrames.\
 **How is the district summary affected?**\
 The impact to the overall district summary is a <1% drop in the Math, Reading & Overall passing percentages
 ![](District_summary_comparison.png)
@@ -28,7 +28,7 @@ Shown below there is a significant impact by removing the invlaid data. Thomas H
 
 
 
-######Recalculate the high- and low-performing schools.
+###### Recalculate the high- and low-performing schools.
 
 **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?**
 - Updating the scores has resulted in a major impact Thomas's High School's ranking compared to the other schools. They have dropped from 2nd place down to 13th
@@ -36,7 +36,7 @@ Shown below there is a significant impact by removing the invlaid data. Thomas H
 ![](school_performance_updated.png)
 
 
-######Recalculate the scores by grade, scores by school spending, scores by school size, and scores by school type.\
+###### Recalculate the scores by grade, scores by school spending, scores by school size, and scores by school type.\
 
 How does replacing the ninth-grade scores affect the following?
 
